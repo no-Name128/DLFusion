@@ -12,6 +12,7 @@ Transformation of surround-view camera depth maps into 3D feature space and fusi
 # Appendix
 
 ![img2](docs/imgs/appendix-overall.png)
+
 Appendix part of the code is released
 
 ## Use TransFusion
