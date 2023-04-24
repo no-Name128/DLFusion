@@ -1,4 +1,4 @@
-# TransFusion repository
+# DLFusion repository
 
 PyTorch implementation of DLFusion for  paper DLFusion: Painting-Depth Augmenting-LiDAR for Multimodal Fusion 3D Object Detection. (For now, we have released the code of the part of appendix)
 
@@ -15,7 +15,7 @@ Surround-view cameras combined with image depth transformation to 3D feature spa
 
 Appendix part of the code is released
 
-## Use TransFusion
+## Use DLFusion
 
 **Installation**
 
