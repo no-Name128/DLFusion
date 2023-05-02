@@ -6,7 +6,7 @@ Surround-view cameras combined with image depth transformation to 3D feature spa
 
 # Main Text
 
-![img1](docs/imgs/overall.png)
+![img1](docs/imgs/overrall.png)
 
 
 # Appendix
