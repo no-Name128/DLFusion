@@ -29,4 +29,4 @@ Please refer to [data_preparation.md](docs/data_preparation.md) to prepare the d
 
 ## Acknowlegement
 
-We sincerely thank the authors of [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [CenterPoint](https://github.com/tianweiy/CenterPoint), [BEVFormer](https://github.com/zhiqi-li/BEVFormer), [Caddn](https://github.com/TRAILab/CaDDN), [PETR](https://github.com/megvii-research/PETR) for open sourcing their methods.
+We sincerely thank the authors of [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [CenterPoint](https://github.com/tianweiy/CenterPoint), [BEVFormer](https://github.com/zhiqi-li/BEVFormer), [Caddn](https://github.com/TRAILab/CaDDN), [UVTR](https://github.com/dvlab-research/UVTR),[PETR](https://github.com/megvii-research/PETR) for open sourcing their methods.
