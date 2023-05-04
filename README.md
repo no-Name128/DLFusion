@@ -16,7 +16,7 @@ Surround-view cameras combined with image depth transformation to 3D feature spa
 Appendix part of the code is released
 
 # Detection Result
-![img3](docs/imgs/appendix-detection-visualization.png)
+![img3](docs/imgs/_appendix-detection-visualization.png)
 ## Use DLFusion
 
 **Installation**
