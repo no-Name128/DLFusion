@@ -8,7 +8,7 @@ class_names = [
     'car', 'truck', 'construction_vehicle', 'bus', 'trailer', 'barrier',
     'motorcycle', 'bicycle', 'pedestrian', 'traffic_cone'
 ]
-voxel_size = [0.1, 0.1, 0.2]  # for point cloud voxelization
+voxel_size = [0.1, 0.1, 0.2]  # for point cloud voxelization & appendix framework
 
 # ========config for the img voxel proj==========
 bev_stride = 8
