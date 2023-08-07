@@ -19,6 +19,7 @@ Appendix part of the code is released
 ![img3](docs/imgs/_appendix-detection-visualization.png)
 ## Use DLFusion
 
+
 **Installation**
 
 Please refer to [getting_started.md](docs/getting_started.md) for installation of mmdet3d. We use mmdet 2.10.0 and mmcv 1.2.4 for this project.
@@ -26,6 +27,13 @@ Please refer to [getting_started.md](docs/getting_started.md) for installation o
 **Benchmark Evaluation and Training**
 
 Please refer to [data_preparation.md](docs/data_preparation.md) to prepare the data. Then follow the instruction there to train our model. All detection configurations are included in [configs](configs/).
+
+
+## Segmetation & Dept Sample
+
+Instance segmentation and image depth sampling of nuScenes data, selected for processing using the MVP approach.
+
+Please refer to the [MVP ](https://github.com/tianweiy/MVP)open source code for the handling of instance segmentation. 
 
 ## Acknowlegement
 
