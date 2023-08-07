@@ -1,4 +1,6 @@
-# DLFusion repository for demo
+# DLFusion repository for Review
+
+> The repository code is a partial demo of the paper's submission and review, and we will publish the full code address in the current repository when the full version of the code is rewritten and organized. Thank you for your attention! 🤝
 
 PyTorch implementation of DLFusion for  paper DLFusion: Painting-Depth Augmenting-LiDAR for Multimodal Fusion 3D Object Detection. (For now, we have released the code of the part of appendix)
 
