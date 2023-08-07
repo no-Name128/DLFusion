@@ -1,4 +1,4 @@
-# DLFusion repository
+# DLFusion repository for demo
 
 PyTorch implementation of DLFusion for  paper DLFusion: Painting-Depth Augmenting-LiDAR for Multimodal Fusion 3D Object Detection. (For now, we have released the code of the part of appendix)
 
