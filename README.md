@@ -29,7 +29,7 @@ Please refer to [getting_started.md](docs/getting_started.md) for installation o
 Please refer to [data_preparation.md](docs/data_preparation.md) to prepare the data. Then follow the instruction there to train our model. All detection configurations are included in [configs](configs/).
 
 
-## Segmetation & Dept Sample
+## Segmetation & Dept Feats Sample 
 
 Instance segmentation and image depth sampling of nuScenes data, selected for processing using the MVP approach.
 
